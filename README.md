@@ -5,7 +5,8 @@
 
 A simplified version of Cirillo’s original Pomodoro technique for time management. Built with react.
 
-
+link to project
+https://pocketcorporation.github.io/Pomodoro/
 
 
 
