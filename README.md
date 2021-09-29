@@ -5,5 +5,5 @@
 
 A simplified version of Cirillo’s original Pomodoro technique for time management. Built with react.
 
-link to project
+Link to project
 [Pomodoro](https://project-pomodoro-timer-qualified-1-beta-one.vercel.app/)
